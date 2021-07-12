@@ -1,0 +1,34 @@
+h1 {
+  padding: 15px;
+}
+h1,
+h2,
+h3 {
+  text-align: center;
+  padding: 10px;
+}
+.cityfinder {
+  text-align: center;
+}
+.card-text {
+  font-size: 20px;
+  text-align: center;
+}
+.current-temp {
+  display: block;
+  margin: 0 auto;
+  max-width: 30%;
+}
+
+.card-subtitle {
+  text-align: center;
+}
+
+.exact-button {
+  display: block;
+  margin: 0 auto;
+}
+
+.byline {
+  text-align: center;
+}
