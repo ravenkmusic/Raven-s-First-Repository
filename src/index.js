@@ -25,7 +25,7 @@ function currentTime() {
   }
   console.log(minutes);
 
-  return `${day}, at ${hour}:${minutes}.`;
+  return `${day}, at ${hour}:${minutes}`;
 }
 
 let time = document.querySelector("#time");
